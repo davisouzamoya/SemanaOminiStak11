@@ -1,7 +1,7 @@
 # SemanaOminiStak11
 SemanaOminiStak11
 
-[Technologies | How To Use | License](docs/CONTRIBUTING.md)
+[Technologies]|[ How To Use ]| [License](docs/CONTRIBUTING.md)
 
 
 
