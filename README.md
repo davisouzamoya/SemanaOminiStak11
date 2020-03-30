@@ -11,6 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - ReactJS (frontend)
 - React Native (mobile)
 - Expo (Utilizada no desenvolvimento mobile com React Native)
+- Banco de dados SLQlite
 
 
 💻 Projeto
