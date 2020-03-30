@@ -1,11 +1,11 @@
 # SemanaOminiStak11
 SemanaOminiStak11
 
-[Technologies]|[ How To Use ]| [License](docs/CONTRIBUTING.md)
+[Technologies](Technologies)|[ How To Use ](docs/CONTRIBUTING.md)| [License](docs/CONTRIBUTING.md)
 
 
 
-🚀 Technologies
+🚀 [Technologies](Technologies)
 This project was developed at the RocketSeat Youtube Channel with the following technologies:
 
 ReactJS
